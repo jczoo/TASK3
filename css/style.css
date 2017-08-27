@@ -55,3 +55,11 @@ float:right;
 padding-right:10%;
 
 }
+@media (min-width: 768px){
+
+.m_down{
+	text-align:center;
+	height: 180px;
+
+}
+}
